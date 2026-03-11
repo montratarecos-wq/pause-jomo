@@ -1,0 +1,1 @@
+Pause-JOMO is a minimalist PWA designed to slow down. See how many people around the world are in pause mode right now and join the Joy Of Missing Out. No accounts, no notifications, just presence. An anti-FOMO app for digital wellbeing, mindful breaks and social media detox.
